@@ -26,15 +26,6 @@ h1{
     color: red;
 
 }
-h2{
-    color: red;
-}
-h3{
-    color: red;
-}
-h4{
-    color: red;
-}
 p{ 
     color: gray;
     font-family: Arial, Helvetica, sans-serif;
